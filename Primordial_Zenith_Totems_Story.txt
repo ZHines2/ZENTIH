@@ -1,0 +1,131 @@
+
+### Totems Covered So Far
+
+#### Primordial Zenith Totems:
+1. **Tortoise**: Patient
+   - **Idle**: 5
+   - **Patrol**: 0
+   - **Chase**: 0
+   - **Flee**: 1
+   - **Loot**: 1
+   - **Attack**: 1
+   - **Ally**: 2
+
+2. **Eagle**: Majestic
+   - **Idle**: 0
+   - **Patrol**: 6
+   - **Chase**: 2
+   - **Flee**: 1
+   - **Loot**: 0
+   - **Attack**: 1
+   - **Ally**: 0
+
+3. **Lion**: Regal
+   - **Idle**: 0
+   - **Patrol**: 0
+   - **Chase**: 1
+   - **Flee**: 0
+   - **Loot**: 0
+   - **Attack**: 2
+   - **Ally**: 7
+
+4. **Elephant**: Equanimous
+   - **Idle**: 2
+   - **Patrol**: 1
+   - **Chase**: 0
+   - **Flee**: 0
+   - **Loot**: 0
+   - **Attack**: 1
+   - **Ally**: 6
+
+5. **Wolf**: Audacious
+   - **Idle**: 0
+   - **Patrol**: 2
+   - **Chase**: 5
+   - **Flee**: 0
+   - **Loot**: 0
+   - **Attack**: 3
+   - **Ally**: 0
+
+6. **Snake**: Cunning
+   - **Idle**: 0
+   - **Patrol**: 0
+   - **Chase**: 0
+   - **Flee**: 1
+   - **Loot**: 1
+   - **Attack**: 7
+   - **Ally**: 1
+
+7. **Fox**: Clever
+   - **Idle**: 0
+   - **Patrol**: 0
+   - **Chase**: 1
+   - **Flee**: 1
+   - **Loot**: 6
+   - **Attack**: 1
+   - **Ally**: 1
+
+8. **Dolphin**: Intelligent
+   - **Idle**: 1
+   - **Patrol**: 1
+   - **Chase**: 0
+   - **Flee**: 0
+   - **Loot**: 0
+   - **Attack**: 0
+   - **Ally**: 8
+
+9. **Crow**: Perceptive
+   - **Idle**: 0
+   - **Patrol**: 6
+   - **Chase**: 1
+   - **Flee**: 1
+   - **Loot**: 1
+   - **Attack**: 1
+   - **Ally**: 0
+
+10. **Ant**: Industrious
+   - **Idle**: 6
+   - **Patrol**: 1
+   - **Chase**: 0
+   - **Flee**: 0
+   - **Loot**: 0
+   - **Attack**: 1
+   - **Ally**: 2
+
+11. **Otter**: Joyful
+   - **Idle**: 0
+   - **Patrol**: 1
+   - **Chase**: 0
+   - **Flee**: 5
+   - **Loot**: 2
+   - **Attack**: 0
+   - **Ally**: 2
+
+12. **Spider**: Meticulous
+   - **Idle**: 0
+   - **Patrol**: 7
+   - **Chase**: 1
+   - **Flee**: 0
+   - **Loot**: 1
+   - **Attack**: 1
+   - **Ally**: 0
+
+---
+
+### The First Quickening: Interactions of the Zenith Totems
+
+As the cosmos teetered on the brink of collapse, the Primordial Zenith Totems found themselves drawn together in an unprecedented convergence. Their powers did not merely align but intertwined, each amplifying and reshaping the other in ways no single force could achieve.
+
+Tortoise, steadfast and patient, began laying the groundwork for their combined efforts. It suggested a cautious approach, much to the dismay of Wolf, who growled in frustration, urging bold action instead. Yet, the Lion, with its commanding presence, mediated, declaring that a balance must be struck between patience and audacity.
+
+Overhead, Eagle soared, its majestic vision piercing the chaos. It relayed vital information to Crow, whose keen insight allowed it to interpret the patterns Eagle had seen. Together, they charted a path forward, their dialogue a mix of soaring calls and sharp caws.
+
+On the ground, Ant worked tirelessly to construct a stable base for their operations. Nearby, Spider meticulously wove connections between their efforts, ensuring that no energy or resource went to waste. Their cooperation created a latticework that bound their forces together.
+
+Fox and Snake teamed up, their clever and cunning minds devising strategies to navigate the dangers ahead. Fox’s quick thinking was tempered by Snake’s calculated precision, their whispered plans shared only with the sharp-eared Dolphin, who translated their schemes into actionable steps.
+
+Otter, ever the playful spirit, kept the group’s morale high. Its joyful antics lightened the weight of the task at hand, earning a rare chuckle from the usually stoic Elephant, whose calm demeanor steadied the group in moments of doubt.
+
+As the totems worked in unison, the tapestry of their interactions began to unravel the very fabric of existence. Eagle gave the signal, and Wolf led the charge, breaking the first barrier. Lion roared, commanding their combined strength, while Snake struck the weak point with pinpoint accuracy. Fox executed a feint, diverting chaos, and Crow delivered the final observation needed to seal their success.
+
+The Quickening emerged not from individual acts but from their collective unity. Each totem’s strengths complemented the others, their interactions forming a chain reaction so profound it shattered the limits of creation. Together, they rewrote the cosmos, leaving behind a legacy of synergy and purpose.

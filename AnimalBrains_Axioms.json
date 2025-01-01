@@ -1,0 +1,242 @@
+[
+    {
+        "name": "RatBrain",
+        "axiom": "Devious"
+    },
+    {
+        "name": "LizardBrain",
+        "axiom": "Resilient"
+    },
+    {
+        "name": "MonkeyBrain",
+        "axiom": "Playful"
+    },
+    {
+        "name": "HawkBrain",
+        "axiom": "Focused"
+    },
+    {
+        "name": "DoveBrain",
+        "axiom": "Harmonious"
+    },
+    {
+        "name": "TortoiseBrain",
+        "axiom": "Patient"
+    },
+    {
+        "name": "FoxBrain",
+        "axiom": "Clever"
+    },
+    {
+        "name": "CheetahBrain",
+        "axiom": "Relentless"
+    },
+    {
+        "name": "RabbitBrain",
+        "axiom": "Timid"
+    },
+    {
+        "name": "SquirrelBrain",
+        "axiom": "Fecund"
+    },
+    {
+        "name": "BearBrain",
+        "axiom": "Formidable"
+    },
+    {
+        "name": "EagleBrain",
+        "axiom": "Majestic"
+    },
+    {
+        "name": "DeerBrain",
+        "axiom": "Graceful"
+    },
+    {
+        "name": "FrogBrain",
+        "axiom": "Adaptable"
+    },
+    {
+        "name": "BatBrain",
+        "axiom": "Evasive"
+    },
+    {
+        "name": "BuffaloBrain",
+        "axiom": "Steadfast"
+    },
+    {
+        "name": "OtterBrain",
+        "axiom": "Joyful"
+    },
+    {
+        "name": "PandaBrain",
+        "axiom": "Gentle"
+    },
+    {
+        "name": "RaccoonBrain",
+        "axiom": "Mischievous"
+    },
+    {
+        "name": "MoleBrain",
+        "axiom": "Diligent"
+    },
+    {
+        "name": "GooseBrain",
+        "axiom": "Congruent"
+    },
+    {
+        "name": "MooseBrain",
+        "axiom": "Imposing"
+    },
+    {
+        "name": "CamelBrain",
+        "axiom": "Enduring"
+    },
+    {
+        "name": "GiraffeBrain",
+        "axiom": "Lithe"
+    },
+    {
+        "name": "HyenaBrain",
+        "axiom": "Opportunistic"
+    },
+    {
+        "name": "LeopardBrain",
+        "axiom": "Stealthy"
+    },
+    {
+        "name": "AxolotlBrain",
+        "axiom": "Ingenious"
+    },
+    {
+        "name": "WalrusBrain",
+        "axiom": "Stalwart"
+    },
+    {
+        "name": "PorcupineBrain",
+        "axiom": "Defensive"
+    },
+    {
+        "name": "OctopusBrain",
+        "axiom": "Intuitive"
+    },
+    {
+        "name": "AntBrain",
+        "axiom": "Industrious"
+    },
+    {
+        "name": "DogBrain",
+        "axiom": "Loyal"
+    },
+    {
+        "name": "CatBrain",
+        "axiom": "Independent"
+    },
+    {
+        "name": "HorseBrain",
+        "axiom": "Gallant"
+    },
+    {
+        "name": "DolphinBrain",
+        "axiom": "Intelligent"
+    },
+    {
+        "name": "CrowBrain",
+        "axiom": "Perceptive"
+    },
+    {
+        "name": "OwlBrain",
+        "axiom": "Wise"
+    },
+    {
+        "name": "FalconBrain",
+        "axiom": "Swift"
+    },
+    {
+        "name": "PenguinBrain",
+        "axiom": "Persistent"
+    },
+    {
+        "name": "SnakeBrain",
+        "axiom": "Cunning"
+    },
+    {
+        "name": "SpiderBrain",
+        "axiom": "Meticulous"
+    },
+    {
+        "name": "LionBrain",
+        "axiom": "Regal"
+    },
+    {
+        "name": "TigerBrain",
+        "axiom": "Fierce"
+    },
+    {
+        "name": "SlothBrain",
+        "axiom": "Content"
+    },
+    {
+        "name": "KoalaBrain",
+        "axiom": "Peaceful"
+    },
+    {
+        "name": "PeacockBrain",
+        "axiom": "Charismatic"
+    },
+    {
+        "name": "ElephantBrain",
+        "axiom": "Equanimous"
+    },
+    {
+        "name": "WolfBrain",
+        "axiom": "Audacious"
+    },
+    {
+        "name": "SharkBrain",
+        "axiom": "Tenacious"
+    },
+    {
+        "name": "WolverineBrain",
+        "axiom": "Bellicose"
+    },
+    {
+        "name": "PlatypusBrain",
+        "axiom": "Draconian"
+    },
+    {
+        "name": "ArmadilloBrain",
+        "axiom": "Shielded"
+    },
+    {
+        "name": "HedgehogBrain",
+        "axiom": "Vigorous"
+    },
+    {
+        "name": "KangarooBrain",
+        "axiom": "Eager"
+    },
+    {
+        "name": "ParrotBrain",
+        "axiom": "Affable"
+    },
+    {
+        "name": "CobraBrain",
+        "axiom": "Ominous"
+    },
+    {
+        "name": "StorkBrain",
+        "axiom": "Prolific"
+    },
+    {
+        "name": "ChameleonBrain",
+        "axiom": "Malleable"
+    },
+    {
+        "name": "BeaverBrain",
+        "axiom": "Masterly"
+    },
+    {
+        "name": "BeetleBrain",
+        "axiom": "Resolute"
+    }
+]
