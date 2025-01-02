@@ -3,12 +3,15 @@ extends Node
 
 # Reference to the screen script
 @onready var screen = preload("res://Screen.gd").new()
+@onready var time = preload("res://Time.gd").new()
 
 func _ready():
-	add_child(screen)  # Add the screen instance to the scene tree
+	add_child(screen)
+	add_child(time)
 	screen.initialize_screen()
+	time.connect("tick_updated", Callable(self, "_on_tick_updated"))
 
-# Handle player movement
+# Handle player movement and ticks
 func _input(event):
 	var direction = Vector2.ZERO
 
@@ -20,6 +23,9 @@ func _input(event):
 		direction = Vector2(-1, 0)
 	elif event.is_action_pressed("ui_right"):
 		direction = Vector2(1, 0)
+	elif event.is_action_pressed("ui_accept"):  # Space key for ticking forward
+		time.tick()
+		return
 
 	if direction != Vector2.ZERO:
 		move_player(direction)
@@ -38,8 +44,20 @@ func move_player(direction):
 			screen.visited_tiles.append(screen.player_position)
 		screen.player_position = new_position
 		screen.steps_taken += 1
-		screen.render_viewport()
+		
+		# Update state and perform actions for each animal brain when the player moves
+		time.tick()
 
-# Main game loop
-func _process(delta):
-	pass
+# Handle tick updates
+func _on_tick_updated(ticks, cycles, symbol):
+	print("Tick Updated: %d, Cycle: %d, Symbol: %s" % [ticks, cycles, symbol])
+
+	# Update state and perform actions for each animal brain
+	for brain in screen.animal_brains:
+		brain.state = brain.get_next_state()
+		brain.perform_action(screen.player_position)
+	
+	# Render the updated viewport
+	screen.cycles = cycles
+	screen.ticks = ticks
+	screen.render_viewport()
